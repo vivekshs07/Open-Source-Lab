@@ -2,8 +2,10 @@ import nltk
 from nltk.corpus import reuters
 from nltk import bigrams, trigrams
 from collections import defaultdict
+nltk.download('reuters')
+nltk.download('punkt')
 
-print("This is Mohd Afzal Program")
+print("This is Vivek Singh Program")
 
 # Load the Reuters corpus
 # Create a dictionary to store the frequency of word sequences

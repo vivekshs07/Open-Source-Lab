@@ -1,6 +1,6 @@
 import random
 
-print("This is Mohd Afzal Program")
+print("This is Vivek Singh Sisodiya Program")
 def generate_otp():
     otp = random.randint(1000, 9999)
     return otp

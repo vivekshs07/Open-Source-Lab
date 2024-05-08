@@ -1,7 +1,7 @@
 import numpy as np
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import LSTM, Dense
-
+print("This is Vivek Singh Sisodiya Program")
 # Define your training data
 sentences = [
     "I am going to the",
